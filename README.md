@@ -8,6 +8,8 @@ Named «tomorrow» because of Edge Of Tomorrow movie.
 
 # Installation
 
+Copy config.example.json to config.json.
+
 ```
 sudo apt-get install nginx
 sudo apt-get install supervisor
