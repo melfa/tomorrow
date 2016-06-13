@@ -1,7 +1,7 @@
 const moment = require('moment-timezone');
 const http = require('http');
 const express = require('express');
-const config = require('config.json');
+const config = require('./config.json');
 
 express()
     .get('/tomorrow/:year-:month-:day', function (request, response) {
