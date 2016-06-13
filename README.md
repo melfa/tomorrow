@@ -1,4 +1,4 @@
-Web page just show how many days counts from born date. Usage: <yourdomain>/tomorrow/1990-01-25
+Web page just show how many days counts from born date. See in action: http://elfimov.com/tomorrow/1990-01-25
 
 Named «tomorrow» because of Edge Of Tomorrow movie.
 
